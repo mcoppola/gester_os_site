@@ -129,8 +129,8 @@ i {
 }
 .menu-container .circle {
   position: fixed;
-  bottom: 74px;
-  right: 137px;
+  bottom: 73px;
+  right: 138px;
   border-radius: 50%;
   height: 7px;
   width: 7px;
@@ -150,8 +150,8 @@ i {
 }
 .menu-container .circle-sub {
   position: fixed;
-  bottom: 73px;
-  right: 137px;
+  bottom: 72px;
+  right: 138px;
   border-radius: 50%;
   height: 9px;
   width: 9px;
